@@ -1,2 +1,2 @@
-# Algorand-ackthon-
+# Algorand-hackthon-
 # WAGMI
