@@ -1,2 +1,2 @@
-# Chain-Link-hackthon-
+# Algorand-ackthon-
 # WAGMI
