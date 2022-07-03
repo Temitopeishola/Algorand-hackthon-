@@ -1,5 +1,4 @@
-import dataclasses
- 
+
 class Stock:
     def __init__(self,data:str):
         self.data:str = data
