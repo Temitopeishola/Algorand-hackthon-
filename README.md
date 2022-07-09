@@ -1,5 +1,5 @@
 # Algorand-hackthon-
-# WAGMI
+# PRICE PREDICTION SOFTWARE (PPS)
 The project is  focused on building  price prediction Application on 
 
 Algorand. The team focus on developing the software and machine learning 
