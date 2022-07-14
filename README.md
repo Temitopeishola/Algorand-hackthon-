@@ -40,8 +40,18 @@ inefficiencies.
 
 
 **How to run the model for the price prediction detail in the video**
+
+To use,upload the data base to the
 ```
-mujj
+algo.py
+```
+and run the code 
+in the end of the 
+```
+algo.py
+```
+there are codes under the comment test,just upload your database in the variable of stock.
+
 ```
 
 Here's the [demo video](https://youtu.be/aJaC7ikSz2o) showing the detail on how run the price prediction model
