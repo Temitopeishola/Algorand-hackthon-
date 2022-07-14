@@ -53,6 +53,13 @@ algo.py
 there are codes under the comment test,just upload your database in the variable of stock.
 
 ```
+#Teststock = Stock('ALGO-USD.csv')stock._plot()stock._plot_predict()
+```
+you put the data inthat stock
+```
+('algo.csv')
+```
+so instead of algo.csv, it can be the name of your own file
 
 Here's the [demo video](https://youtu.be/aJaC7ikSz2o) showing the detail on how run the price prediction model
 
