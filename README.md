@@ -1,5 +1,5 @@
-# Algorand-hackthon-
-# PRICE PREDICTION SOFTWARE (PPS)
+**# Algorand-hackthon-**
+**# PRICE PREDICTION SOFTWARE (PPS)**
 # Detail on what is price prediction?
 The project is  focused on building  price prediction Application on 
 
@@ -39,7 +39,7 @@ inefficiencies.
 
 
 
-<mark>How to run the model for the price prediction detail in the video</mark>
+**How to run the model for the price prediction detail in the video**
 
 Here's the [demo video](https://youtu.be/aJaC7ikSz2o) showing the detail on how run the price prediction model
 
