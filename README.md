@@ -55,7 +55,7 @@ there are codes under the comment test,just upload your database in the variable
 ```
 #Teststock = Stock('ALGO-USD.csv')stock._plot()stock._plot_predict()
 ```
-you put the data inthat stock
+you put the data in that stock
 ```
 ('algo.csv')
 ```
