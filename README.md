@@ -40,6 +40,9 @@ inefficiencies.
 
 
 **How to run the model for the price prediction detail in the video**
+```
+mujj
+```
 
 Here's the [demo video](https://youtu.be/aJaC7ikSz2o) showing the detail on how run the price prediction model
 
