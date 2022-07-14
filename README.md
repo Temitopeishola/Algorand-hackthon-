@@ -43,4 +43,5 @@ inefficiencies.
 
 Here's the [demo video](https://youtu.be/aJaC7ikSz2o) showing the detail on how run the price prediction model
 
-
+**This is the result of testing of model for algorand price prediction**
+![23959999-a95b-4e87-bf9b-24676bd18f75](https://user-images.githubusercontent.com/95692977/178860250-2819c729-1473-4b43-aa9c-d82e51c038e6.jpg)
