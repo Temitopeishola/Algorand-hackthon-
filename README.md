@@ -1,5 +1,6 @@
 # Algorand-hackthon-
 # PRICE PREDICTION SOFTWARE (PPS)
+# Detail on what is price prediction?
 The project is  focused on building  price prediction Application on 
 
 Algorand. The team focus on developing the software and machine learning 
@@ -33,3 +34,13 @@ tailored for sequential series of information in which the output contributes to
 Trading bot to use data from PPS to predict arbitrage cycles and correct for market 
 
 inefficiencies.
+
+
+
+
+
+How to run the model for the price prediction detail in the video
+
+Kindly check in the link below :-
+
+https://youtu.be/aJaC7ikSz2o
